@@ -1,5 +1,5 @@
 # myproject-demo
 <br>
-Author - Soniya
+Author - Soniya gupta
 <br>
 This is my first repository
